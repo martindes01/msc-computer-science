@@ -1,0 +1,2 @@
+# Specify diff drivers
+*.md    diff=markdown
