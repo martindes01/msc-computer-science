@@ -4,3 +4,6 @@
 [submodule "computer-systems"]
 	path = computer-systems
 	url = https://github.com/martindes01/computer-systems.git
+[submodule "data-structures-algorithms-databases"]
+	path = data-structures-algorithms-databases
+	url = https://github.com/martindes01/data-structures-algorithms-databases.git
