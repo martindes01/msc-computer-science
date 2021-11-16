@@ -1,3 +1,6 @@
 [submodule "artificial-intelligence-machine-learning"]
 	path = artificial-intelligence-machine-learning
 	url = https://github.com/martindes01/artificial-intelligence-machine-learning.git
+[submodule "computer-systems"]
+	path = computer-systems
+	url = https://github.com/martindes01/computer-systems.git
