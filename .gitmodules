@@ -13,3 +13,6 @@
 [submodule "software-workshop-2"]
 	path = software-workshop-2
 	url = https://github.com/martindes01/software-workshop-2.git
+[submodule "assignment-2"]
+	path = assignment-2
+	url = https://github.com/martindes01/assignment-2.git
