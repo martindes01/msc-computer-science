@@ -19,3 +19,6 @@
 [submodule "examinations"]
 	path = examinations
 	url = https://github.com/martindes01/examinations.git
+[submodule "msc-project"]
+	path = msc-project
+	url = https://github.com/martindes01/msc-project.git
