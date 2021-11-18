@@ -16,3 +16,6 @@
 [submodule "assignment-2"]
 	path = assignment-2
 	url = https://github.com/martindes01/assignment-2.git
+[submodule "examinations"]
+	path = examinations
+	url = https://github.com/martindes01/examinations.git
